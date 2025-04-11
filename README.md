@@ -37,6 +37,6 @@ Automated system for creating personalized diplomas from Excel/Spreadsheet data.
 2. 🖋️ Inject information into PDF template using coordinates  
 3. 🎉 Save ready-to-print PDF diplomas
 
-![Пример заполненного диплома / Diploma Example]([https://disk.yandex.ru/i/N3JcjMPBTEmCtA])
+![Пример заполненного диплома / Diploma Example](https://disk.yandex.ru/i/N3JcjMPBTEmCtA)
 
 
